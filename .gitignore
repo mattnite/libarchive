@@ -72,3 +72,6 @@ test-suite.log
 
 .sw?
 .*.sw?
+
+zig-cache
+zig-out
